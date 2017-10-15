@@ -1,2 +1,2 @@
 # tutoring_materials
-Materials made for tutoring math and physics
+Advertising materials for tutoring math and physics
